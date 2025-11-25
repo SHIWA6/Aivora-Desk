@@ -1,4 +1,4 @@
-<div align="center">
+<div text= "2xl" align="center">
 
 🚀 AIVORA DESK
 
